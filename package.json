@@ -1,0 +1,42 @@
+{
+  "name": "react-next-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "next dev",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiliminiqihang/react-next-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiliminiqihang/react-next-ssr/issues"
+  },
+  "homepage": "https://github.com/yiliminiqihang/react-next-ssr#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^4.11.1",
+    "axios": "^0.21.1",
+    "babel-plugin-import": "^1.13.3",
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^3.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0",
+    "mongoose": "^5.11.13",
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "typescript": "^4.1.3"
+  }
+}
